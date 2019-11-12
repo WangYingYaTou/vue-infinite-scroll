@@ -1,3 +1,10 @@
+## vue的无限滚动加载
+
+https://user-gold-cdn.xitu.io/2019/8/19/16ca99dd9c482a75?imageslim
+
+
+
+
 # vue-infinite-scroll
 
 > vue插件
