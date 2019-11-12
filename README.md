@@ -3,11 +3,22 @@
 ![Image](https://github.com/WangYingYaTou/Img/blob/master/list%20Img.jpg)
 
 
+### 安装
+  官网：https://github.com/ElemeFE/vue-infinite-scroll
+
+    npm install vue-infinite-scroll --save
+    
+  在main.js中引入
+    
+    import infiniteScroll from 'vue-infinite-scroll'
+    Vue.use(infiniteScroll)
+
 
 
 # vue-infinite-scroll
 
-> vue插件
+> vue插件  
+本项目是插件的使用example, 结合后台加载的完整实例
 
 ## Build Setup
 
